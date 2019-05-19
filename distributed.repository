@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.2" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.2" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.2" id="_AWgnYHoxEemAx50lmP1uKQ" entityName="New Repository">
+  <components__Repository xsi:type="repository:CompositeComponent" id="_u-aGgHiYEemDYJya-PDgUg" entityName="IoTAquarium">
+    <assemblyContexts__ComposedStructure id="_VnXeYHibEemDYJya-PDgUg" entityName="JobDelegator" encapsulatedComponent__AssemblyContext="_x8dMAHiYEemDYJya-PDgUg"/>
+    <assemblyContexts__ComposedStructure id="_be9R8HidEemDYJya-PDgUg" entityName="Filtration" encapsulatedComponent__AssemblyContext="_IlwesHiaEemDYJya-PDgUg"/>
+    <assemblyContexts__ComposedStructure id="_gyUB8HidEemDYJya-PDgUg" entityName="TemperatureSensor" encapsulatedComponent__AssemblyContext="_dB23sGtuEemeqq0TqWrLYQ"/>
+    <assemblyContexts__ComposedStructure id="_v8IJoHixEemozKhDmmSihQ" entityName="Assembly_HeatLamp" encapsulatedComponent__AssemblyContext="_ld6JMHivEemozKhDmmSihQ"/>
+    <assemblyContexts__ComposedStructure id="_tJUhIHotEemAx50lmP1uKQ" entityName="Assembly_PHSensor" encapsulatedComponent__AssemblyContext="_w4_tUHosEemAx50lmP1uKQ"/>
+    <assemblyContexts__ComposedStructure id="_PWfqMHowEemAx50lmP1uKQ" entityName="Assembly_FoodDispensor" encapsulatedComponent__AssemblyContext="_4iKBoHotEemAx50lmP1uKQ"/>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_YUWCAHibEemDYJya-PDgUg" entityName="newProvidedDelegationConnector" innerProvidedRole_ProvidedDelegationConnector="_zaJ5EHiYEemDYJya-PDgUg" outerProvidedRole_ProvidedDelegationConnector="_zqXfUHiYEemDYJya-PDgUg" assemblyContext_ProvidedDelegationConnector="_VnXeYHibEemDYJya-PDgUg"/>
+    <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_gEockHidEemDYJya-PDgUg" entityName="newAssemblyConnector" requiringAssemblyContext_AssemblyConnector="_VnXeYHibEemDYJya-PDgUg" providingAssemblyContext_AssemblyConnector="_be9R8HidEemDYJya-PDgUg" providedRole_AssemblyConnector="_L8FhUHiaEemDYJya-PDgUg" requiredRole_AssemblyConnector="_NDOIgHiaEemDYJya-PDgUg"/>
+    <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_jj3jkHidEemDYJya-PDgUg" entityName="newAssemblyConnector" requiringAssemblyContext_AssemblyConnector="_VnXeYHibEemDYJya-PDgUg" providingAssemblyContext_AssemblyConnector="_gyUB8HidEemDYJya-PDgUg" providedRole_AssemblyConnector="_iNq1QGtuEemeqq0TqWrLYQ" requiredRole_AssemblyConnector="_E2GLgHiZEemDYJya-PDgUg"/>
+    <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_lR2MsHi7EemozKhDmmSihQ" entityName="newAssemblyConnector" requiringAssemblyContext_AssemblyConnector="_VnXeYHibEemDYJya-PDgUg" providingAssemblyContext_AssemblyConnector="_v8IJoHixEemozKhDmmSihQ" providedRole_AssemblyConnector="_omJsgHivEemozKhDmmSihQ" requiredRole_AssemblyConnector="_50j5QHivEemozKhDmmSihQ"/>
+    <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_uvueQHotEemAx50lmP1uKQ" entityName="newAssemblyConnector" requiringAssemblyContext_AssemblyConnector="_VnXeYHibEemDYJya-PDgUg" providingAssemblyContext_AssemblyConnector="_tJUhIHotEemAx50lmP1uKQ" providedRole_AssemblyConnector="_7xrHEHosEemAx50lmP1uKQ" requiredRole_AssemblyConnector="_9DTHAHosEemAx50lmP1uKQ"/>
+    <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_SCZPwHowEemAx50lmP1uKQ" entityName="newAssemblyConnector" requiringAssemblyContext_AssemblyConnector="_VnXeYHibEemDYJya-PDgUg" providingAssemblyContext_AssemblyConnector="_PWfqMHowEemAx50lmP1uKQ" providedRole_AssemblyConnector="_6YkJoHotEemAx50lmP1uKQ" requiredRole_AssemblyConnector="_-s8I4HotEemAx50lmP1uKQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_zqXfUHiYEemDYJya-PDgUg" entityName="IIoTAquarium OPR" providedInterface__OperationProvidedRole="_w3crwHiYEemDYJya-PDgUg"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_uxhssHo7Eem058iEWYHpfg" entityName="PHService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_BwB-EHo8Eem058iEWYHpfg" entityName="IPHService OPR1" providedInterface__OperationProvidedRole="_UbiQYHo7Eem058iEWYHpfg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_tvlSEHo8Eem058iEWYHpfg" entityName="IIoTAquarium OPR4" requiredInterface__OperationRequiredRole="_w3crwHiYEemDYJya-PDgUg"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_BwDMMHo8Eem058iEWYHpfg" describedService__SEFF="_cu3YgHo7Eem058iEWYHpfg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_BwDMMXo8Eem058iEWYHpfg" successor_AbstractAction="_BwDMMno8Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_BwDMMno8Eem058iEWYHpfg" predecessor_AbstractAction="_BwDMMXo8Eem058iEWYHpfg"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_4iKBoHotEemAx50lmP1uKQ" entityName="FoodDispensor">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_6YkJoHotEemAx50lmP1uKQ" entityName="IFoodDispensor OPR" providedInterface__OperationProvidedRole="_26F3oHotEemAx50lmP1uKQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_Aj-jAHouEemAx50lmP1uKQ" describedService__SEFF="__KdLUHotEemAx50lmP1uKQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_A0kjwHouEemAx50lmP1uKQ" successor_AbstractAction="_Br5NUHouEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_A0lK0HouEemAx50lmP1uKQ" predecessor_AbstractAction="_Br5NUHouEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_Br5NUHouEemAx50lmP1uKQ" entityName="InternalAction1" predecessor_AbstractAction="_A0kjwHouEemAx50lmP1uKQ" successor_AbstractAction="_A0lK0HouEemAx50lmP1uKQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="50"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_IlwesHiaEemDYJya-PDgUg" entityName="Filtration">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_L8FhUHiaEemDYJya-PDgUg" entityName="IFiltration OPR" providedInterface__OperationProvidedRole="_D-agIHiaEemDYJya-PDgUg"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_L8ZqYHiaEemDYJya-PDgUg" describedService__SEFF="_F_p_IHiaEemDYJya-PDgUg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_L8ZqYXiaEemDYJya-PDgUg" successor_AbstractAction="_rRxlQHivEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_L8ZqYniaEemDYJya-PDgUg" predecessor_AbstractAction="_rRxlQHivEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_rRxlQHivEemozKhDmmSihQ" entityName="InternalAction1" predecessor_AbstractAction="_L8ZqYXiaEemDYJya-PDgUg" successor_AbstractAction="_L8ZqYniaEemDYJya-PDgUg">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="5"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_L9NisHiaEemDYJya-PDgUg" describedService__SEFF="_GtgjoHiaEemDYJya-PDgUg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_L9NisXiaEemDYJya-PDgUg" successor_AbstractAction="_u2BIEHivEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_L9NisniaEemDYJya-PDgUg" predecessor_AbstractAction="_u2BIEHivEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_u2BIEHivEemozKhDmmSihQ" entityName="InternalAction1" predecessor_AbstractAction="_L9NisXiaEemDYJya-PDgUg" successor_AbstractAction="_L9NisniaEemDYJya-PDgUg">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="5"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_ld6JMHivEemozKhDmmSihQ" entityName="HeatLamp">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_omJsgHivEemozKhDmmSihQ" entityName="IHeatLamp OPR" providedInterface__OperationProvidedRole="_gUPgsHivEemozKhDmmSihQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_omhf8HivEemozKhDmmSihQ" describedService__SEFF="_jnezEHivEemozKhDmmSihQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_omhf8XivEemozKhDmmSihQ" successor_AbstractAction="_xjmIoHivEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_omhf8nivEemozKhDmmSihQ" predecessor_AbstractAction="_xjmIoHivEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_xjmIoHivEemozKhDmmSihQ" entityName="InternalAction1" predecessor_AbstractAction="_omhf8XivEemozKhDmmSihQ" successor_AbstractAction="_omhf8nivEemozKhDmmSihQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="5"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_onaQwHivEemozKhDmmSihQ" describedService__SEFF="_koPsgHivEemozKhDmmSihQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_ona30HivEemozKhDmmSihQ" successor_AbstractAction="_0yEj4Hi8EemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_ona30XivEemozKhDmmSihQ" predecessor_AbstractAction="_0yEj4Hi8EemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0yEj4Hi8EemozKhDmmSihQ" entityName="InternalAction1" predecessor_AbstractAction="_ona30HivEemozKhDmmSihQ" successor_AbstractAction="_ona30XivEemozKhDmmSihQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="5"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_x8dMAHiYEemDYJya-PDgUg" entityName="JobDelegator">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_zaJ5EHiYEemDYJya-PDgUg" entityName="IIoTAquarium OPR" providedInterface__OperationProvidedRole="_w3crwHiYEemDYJya-PDgUg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_E2GLgHiZEemDYJya-PDgUg" entityName="ITemperatureSensor ORR" requiredInterface__OperationRequiredRole="_P4UOkGtuEemeqq0TqWrLYQ"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_NDOIgHiaEemDYJya-PDgUg" entityName="IFiltration ORR" requiredInterface__OperationRequiredRole="_D-agIHiaEemDYJya-PDgUg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_50j5QHivEemozKhDmmSihQ" entityName="IHeatLamp ORR" requiredInterface__OperationRequiredRole="_gUPgsHivEemozKhDmmSihQ"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_9DTHAHosEemAx50lmP1uKQ" entityName="IPHSensor ORR" requiredInterface__OperationRequiredRole="_rv2pQHosEemAx50lmP1uKQ"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_-s8I4HotEemAx50lmP1uKQ" entityName="IFoodDispensor ORR" requiredInterface__OperationRequiredRole="_26F3oHotEemAx50lmP1uKQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_8CwtoHiYEemDYJya-PDgUg" describedService__SEFF="_060akHiYEemDYJya-PDgUg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_8Rvk0HiYEemDYJya-PDgUg" successor_AbstractAction="_WEIIUHiaEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_8RwL4HiYEemDYJya-PDgUg" predecessor_AbstractAction="_WEIIUHiaEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_WEIIUHiaEemDYJya-PDgUg" entityName="ExternalCallAction1" predecessor_AbstractAction="_8Rvk0HiYEemDYJya-PDgUg" successor_AbstractAction="_8RwL4HiYEemDYJya-PDgUg" calledService_ExternalService="_WpmVIGtuEemeqq0TqWrLYQ" role_ExternalService="_E2GLgHiZEemDYJya-PDgUg"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_S-NgQHiaEemDYJya-PDgUg" describedService__SEFF="_OEpJQHiaEemDYJya-PDgUg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_TP1bwHiaEemDYJya-PDgUg" successor_AbstractAction="_c8Rr4HiaEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_TP1bwXiaEemDYJya-PDgUg" predecessor_AbstractAction="_c8Rr4HiaEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_c8Rr4HiaEemDYJya-PDgUg" entityName="ExternalCallAction1" predecessor_AbstractAction="_TP1bwHiaEemDYJya-PDgUg" successor_AbstractAction="_TP1bwXiaEemDYJya-PDgUg" calledService_ExternalService="_F_p_IHiaEemDYJya-PDgUg" role_ExternalService="_NDOIgHiaEemDYJya-PDgUg"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_Tq2j0HiaEemDYJya-PDgUg" describedService__SEFF="_P1jtQHiaEemDYJya-PDgUg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_T5dnkHiaEemDYJya-PDgUg" successor_AbstractAction="_fyec8HiaEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_T5dnkXiaEemDYJya-PDgUg" predecessor_AbstractAction="_fyec8HiaEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_fyec8HiaEemDYJya-PDgUg" entityName="ExternalCallAction1" predecessor_AbstractAction="_T5dnkHiaEemDYJya-PDgUg" successor_AbstractAction="_T5dnkXiaEemDYJya-PDgUg" calledService_ExternalService="_GtgjoHiaEemDYJya-PDgUg" role_ExternalService="_NDOIgHiaEemDYJya-PDgUg"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="__NeesHivEemozKhDmmSihQ" describedService__SEFF="_8_rKYHivEemozKhDmmSihQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="__i4G8HivEemozKhDmmSihQ" successor_AbstractAction="_B4O0wHiwEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="__i4G8XivEemozKhDmmSihQ" predecessor_AbstractAction="_B4O0wHiwEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_B4O0wHiwEemozKhDmmSihQ" entityName="ExternalCallAction1" predecessor_AbstractAction="__i4G8HivEemozKhDmmSihQ" successor_AbstractAction="__i4G8XivEemozKhDmmSihQ" calledService_ExternalService="_jnezEHivEemozKhDmmSihQ" role_ExternalService="_50j5QHivEemozKhDmmSihQ"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_AFVTwHiwEemozKhDmmSihQ" describedService__SEFF="_-DKnsHivEemozKhDmmSihQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_Aao1YHiwEemozKhDmmSihQ" successor_AbstractAction="_EiEk0HiwEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_Aao1YXiwEemozKhDmmSihQ" predecessor_AbstractAction="_EiEk0HiwEemozKhDmmSihQ"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_EiEk0HiwEemozKhDmmSihQ" entityName="ExternalCallAction1" predecessor_AbstractAction="_Aao1YHiwEemozKhDmmSihQ" successor_AbstractAction="_Aao1YXiwEemozKhDmmSihQ" calledService_ExternalService="_koPsgHivEemozKhDmmSihQ" role_ExternalService="_50j5QHivEemozKhDmmSihQ"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_C9o-gHotEemAx50lmP1uKQ" describedService__SEFF="__fPlAHosEemAx50lmP1uKQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_DSw58HotEemAx50lmP1uKQ" successor_AbstractAction="_EQMykHotEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_DSw58XotEemAx50lmP1uKQ" predecessor_AbstractAction="_EQMykHotEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_EQMykHotEemAx50lmP1uKQ" entityName="ExternalCallAction1" predecessor_AbstractAction="_DSw58HotEemAx50lmP1uKQ" successor_AbstractAction="_DSw58XotEemAx50lmP1uKQ" calledService_ExternalService="_xM9yMHosEemAx50lmP1uKQ" role_ExternalService="_9DTHAHosEemAx50lmP1uKQ"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_Gsy7YHouEemAx50lmP1uKQ" describedService__SEFF="_F2tA4HouEemAx50lmP1uKQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_HEg30HouEemAx50lmP1uKQ" successor_AbstractAction="_JKLj0HouEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_HEg30XouEemAx50lmP1uKQ" predecessor_AbstractAction="_JKLj0HouEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_JKLj0HouEemAx50lmP1uKQ" entityName="ExternalCallAction1" predecessor_AbstractAction="_HEg30HouEemAx50lmP1uKQ" successor_AbstractAction="_HEg30XouEemAx50lmP1uKQ" calledService_ExternalService="__KdLUHotEemAx50lmP1uKQ" role_ExternalService="_-s8I4HotEemAx50lmP1uKQ"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_w4_tUHosEemAx50lmP1uKQ" entityName="PHSensor">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_7xrHEHosEemAx50lmP1uKQ" entityName="OPR" providedInterface__OperationProvidedRole="_rv2pQHosEemAx50lmP1uKQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_7yjQ0HosEemAx50lmP1uKQ" describedService__SEFF="_xM9yMHosEemAx50lmP1uKQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_7yrMoHosEemAx50lmP1uKQ" successor_AbstractAction="_HBkuAHotEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_7yrMoXosEemAx50lmP1uKQ" predecessor_AbstractAction="_HBkuAHotEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_HBkuAHotEemAx50lmP1uKQ" entityName="InternalAction1" predecessor_AbstractAction="_7yrMoHosEemAx50lmP1uKQ" successor_AbstractAction="_7yrMoXosEemAx50lmP1uKQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="30"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_dB23sGtuEemeqq0TqWrLYQ" entityName="TemperatureSensor">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_iNq1QGtuEemeqq0TqWrLYQ" entityName="ITempSensor OPR" providedInterface__OperationProvidedRole="_P4UOkGtuEemeqq0TqWrLYQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_iOWKsGtuEemeqq0TqWrLYQ" describedService__SEFF="_WpmVIGtuEemeqq0TqWrLYQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_iOWKsWtuEemeqq0TqWrLYQ" successor_AbstractAction="_l2U-AGtuEemeqq0TqWrLYQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_iOWxwGtuEemeqq0TqWrLYQ" predecessor_AbstractAction="_l2U-AGtuEemeqq0TqWrLYQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_l2U-AGtuEemeqq0TqWrLYQ" entityName="returnTemperature" predecessor_AbstractAction="_iOWKsWtuEemeqq0TqWrLYQ" successor_AbstractAction="_iOWxwGtuEemeqq0TqWrLYQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="5"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_lV8jEHo7Eem058iEWYHpfg" entityName="JobBalancer">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_YEQ1IHo8Eem058iEWYHpfg" entityName="IController OPR1" providedInterface__OperationProvidedRole="_QheZIHo8Eem058iEWYHpfg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_4I_PsHpZEemgmLWa48aZ0w" entityName="OperationRequiredRole1" requiredInterface__OperationRequiredRole="_GR74cHo7Eem058iEWYHpfg"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_jIs9gHo9Eem058iEWYHpfg" describedService__SEFF="_a9cBsHo8Eem058iEWYHpfg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_jeg1cHo9Eem058iEWYHpfg" successor_AbstractAction="_52ONkHpZEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_jeg1cXo9Eem058iEWYHpfg" predecessor_AbstractAction="_52ONkHpZEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_52ONkHpZEemgmLWa48aZ0w" entityName="ExternalCallAction1" predecessor_AbstractAction="_jeg1cHo9Eem058iEWYHpfg" successor_AbstractAction="_jeg1cXo9Eem058iEWYHpfg" calledService_ExternalService="_WzJA8Ho7Eem058iEWYHpfg" role_ExternalService="_4I_PsHpZEemgmLWa48aZ0w"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_j37bAHo9Eem058iEWYHpfg" describedService__SEFF="_V2s78Ho9Eem058iEWYHpfg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_kL_mgHo9Eem058iEWYHpfg" successor_AbstractAction="_kMANkHo9Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_kMANkHo9Eem058iEWYHpfg" predecessor_AbstractAction="_kL_mgHo9Eem058iEWYHpfg"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_krzvAHo9Eem058iEWYHpfg" describedService__SEFF="_XP9N4Ho9Eem058iEWYHpfg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_k_pRAHo9Eem058iEWYHpfg" successor_AbstractAction="_k_pRAXo9Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_k_pRAXo9Eem058iEWYHpfg" predecessor_AbstractAction="_k_pRAHo9Eem058iEWYHpfg"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_rfmo8Ho7Eem058iEWYHpfg" entityName="TemperatureService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_7uM-gHo7Eem058iEWYHpfg" entityName="ITemperatureService OPR1" providedInterface__OperationProvidedRole="_GR74cHo7Eem058iEWYHpfg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_r35XsHo8Eem058iEWYHpfg" entityName="IIoTAquarium OPR1" requiredInterface__OperationRequiredRole="_w3crwHiYEemDYJya-PDgUg"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_7vFvUHo7Eem058iEWYHpfg" describedService__SEFF="_WzJA8Ho7Eem058iEWYHpfg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_7vGWYHo7Eem058iEWYHpfg" successor_AbstractAction="__B9SoHpZEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_7vGWYXo7Eem058iEWYHpfg" predecessor_AbstractAction="__B9SoHpZEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="__B9SoHpZEemgmLWa48aZ0w" entityName="setUp" predecessor_AbstractAction="_7vGWYHo7Eem058iEWYHpfg" successor_AbstractAction="_7vGWYXo7Eem058iEWYHpfg">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="5"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_si-xgHo7Eem058iEWYHpfg" entityName="FoodService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="__OspwHo7Eem058iEWYHpfg" entityName="IFoodService OPR1" providedInterface__OperationProvidedRole="_K0v8UHo7Eem058iEWYHpfg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_sUsocHo8Eem058iEWYHpfg" entityName="IIoTAquarium OPR2" requiredInterface__OperationRequiredRole="_w3crwHiYEemDYJya-PDgUg"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_tsf-UHo7Eem058iEWYHpfg" entityName="CleaningService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_ArR8gHo8Eem058iEWYHpfg" entityName="CleaningService OPR1" providedInterface__OperationProvidedRole="_Rtgj4Ho7Eem058iEWYHpfg"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_sxJ68Ho8Eem058iEWYHpfg" entityName="IIoTAquarium OPR3" requiredInterface__OperationRequiredRole="_w3crwHiYEemDYJya-PDgUg"/>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_GR74cHo7Eem058iEWYHpfg" entityName="ITemperatureService">
+    <signatures__OperationInterface id="_WzJA8Ho7Eem058iEWYHpfg" entityName="getTemperature"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_gUPgsHivEemozKhDmmSihQ" entityName="IHeatLamp">
+    <signatures__OperationInterface id="_jnezEHivEemozKhDmmSihQ" entityName="turnOn"/>
+    <signatures__OperationInterface id="_koPsgHivEemozKhDmmSihQ" entityName="turnOff"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_rv2pQHosEemAx50lmP1uKQ" entityName="IPHSensor">
+    <signatures__OperationInterface id="_xM9yMHosEemAx50lmP1uKQ" entityName="getPH">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_w3crwHiYEemDYJya-PDgUg" entityName="IIoTAquarium">
+    <signatures__OperationInterface id="_060akHiYEemDYJya-PDgUg" entityName="getTemperature">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_OEpJQHiaEemDYJya-PDgUg" entityName="turnOnFiltration"/>
+    <signatures__OperationInterface id="_P1jtQHiaEemDYJya-PDgUg" entityName="turnOffFiltration"/>
+    <signatures__OperationInterface id="_8_rKYHivEemozKhDmmSihQ" entityName="turnOnHeatLamp"/>
+    <signatures__OperationInterface id="_-DKnsHivEemozKhDmmSihQ" entityName="turnOffHeatLamp"/>
+    <signatures__OperationInterface id="__fPlAHosEemAx50lmP1uKQ" entityName="getPH">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_F2tA4HouEemAx50lmP1uKQ" entityName="dispenseFood"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_D-agIHiaEemDYJya-PDgUg" entityName="IFiltration">
+    <signatures__OperationInterface id="_F_p_IHiaEemDYJya-PDgUg" entityName="turnOn"/>
+    <signatures__OperationInterface id="_GtgjoHiaEemDYJya-PDgUg" entityName="turnOff"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_26F3oHotEemAx50lmP1uKQ" entityName="IFoodDispensor">
+    <signatures__OperationInterface id="__KdLUHotEemAx50lmP1uKQ" entityName="dispenseFood"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_P4UOkGtuEemeqq0TqWrLYQ" entityName="ITemperatureSensor">
+    <signatures__OperationInterface id="_WpmVIGtuEemeqq0TqWrLYQ" entityName="getTemperature">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_K0v8UHo7Eem058iEWYHpfg" entityName="IFoodService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Rtgj4Ho7Eem058iEWYHpfg" entityName="ICleaningService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_UbiQYHo7Eem058iEWYHpfg" entityName="IPHService">
+    <signatures__OperationInterface id="_cu3YgHo7Eem058iEWYHpfg" entityName="getPhLevels"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_QheZIHo8Eem058iEWYHpfg" entityName="IController">
+    <signatures__OperationInterface id="_a9cBsHo8Eem058iEWYHpfg" entityName="controllTemperature"/>
+    <signatures__OperationInterface id="_V2s78Ho9Eem058iEWYHpfg" entityName="controllFiltration"/>
+    <signatures__OperationInterface id="_XP9N4Ho9Eem058iEWYHpfg" entityName="controllFood"/>
+  </interfaces__Repository>
+</repository:Repository>

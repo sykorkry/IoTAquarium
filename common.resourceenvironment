@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ASCII"?>
+<resourceenvironment:ResourceEnvironment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:resourceenvironment="http://palladiosimulator.org/PalladioComponentModel/ResourceEnvironment/5.2" entityName="New ResourceEnvironment">
+  <linkingResources__ResourceEnvironment id="_juckgHV_EemfQOmpAt9o7Q" entityName="The Internets" connectedResourceContainers_LinkingResource="_Vz3xkGtvEemeqq0TqWrLYQ _c_IM0HV_EemfQOmpAt9o7Q">
+    <communicationLinkResourceSpecifications_LinkingResource id="_jugO4HV_EemfQOmpAt9o7Q">
+      <communicationLinkResourceType_CommunicationLinkResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_o3sScH2AEdyH8uerKnHYug"/>
+      <latency_CommunicationLinkResourceSpecification specification="0.1"/>
+      <throughput_CommunicationLinkResourceSpecification specification="100"/>
+    </communicationLinkResourceSpecifications_LinkingResource>
+  </linkingResources__ResourceEnvironment>
+  <resourceContainer_ResourceEnvironment id="_Vz3xkGtvEemeqq0TqWrLYQ" entityName="IoTAquarium">
+    <activeResourceSpecifications_ResourceContainer id="_bD3EgGtvEemeqq0TqWrLYQ" numberOfReplicas="100">
+      <schedulingPolicy href="pathmap://PCM_MODELS/Palladio.resourcetype#ProcessorSharing"/>
+      <activeResourceType_ActiveResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+      <processingRate_ProcessingResourceSpecification specification="50"/>
+    </activeResourceSpecifications_ResourceContainer>
+  </resourceContainer_ResourceEnvironment>
+  <resourceContainer_ResourceEnvironment id="_c_IM0HV_EemfQOmpAt9o7Q" entityName="Cloud Controller">
+    <activeResourceSpecifications_ResourceContainer id="_evcT4HV_EemfQOmpAt9o7Q">
+      <schedulingPolicy href="pathmap://PCM_MODELS/Palladio.resourcetype#ProcessorSharing"/>
+      <activeResourceType_ActiveResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+      <processingRate_ProcessingResourceSpecification specification="1000"/>
+    </activeResourceSpecifications_ResourceContainer>
+    <activeResourceSpecifications_ResourceContainer id="_geP_EHV_EemfQOmpAt9o7Q">
+      <schedulingPolicy href="pathmap://PCM_MODELS/Palladio.resourcetype#ProcessorSharing"/>
+      <activeResourceType_ActiveResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
+      <processingRate_ProcessingResourceSpecification specification="100"/>
+    </activeResourceSpecifications_ResourceContainer>
+    <activeResourceSpecifications_ResourceContainer id="_5u3LsHo1Eem058iEWYHpfg">
+      <schedulingPolicy href="pathmap://PCM_MODELS/Palladio.resourcetype#Delay"/>
+      <activeResourceType_ActiveResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+      <processingRate_ProcessingResourceSpecification specification="1"/>
+    </activeResourceSpecifications_ResourceContainer>
+  </resourceContainer_ResourceEnvironment>
+</resourceenvironment:ResourceEnvironment>

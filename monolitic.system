@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.2" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.2" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.2" id="_424d0GtuEemeqq0TqWrLYQ" entityName="Monolitic IoTAquarium">
+  <assemblyContexts__ComposedStructure id="_SuwTwHWAEemfQOmpAt9o7Q" entityName="Controller">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="monolitic.repository#_4qwtwHV8EemfQOmpAt9o7Q"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_kwAmkHidEemDYJya-PDgUg" entityName="Assembly_IoTAquarium">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:CompositeComponent" href="monolitic.repository#_u-aGgHiYEemDYJya-PDgUg"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_UjMs4HWAEemfQOmpAt9o7Q" entityName="newProvidedDelegationConnector" outerProvidedRole_ProvidedDelegationConnector="_TwSpQHWAEemfQOmpAt9o7Q" assemblyContext_ProvidedDelegationConnector="_SuwTwHWAEemfQOmpAt9o7Q">
+    <innerProvidedRole_ProvidedDelegationConnector href="monolitic.repository#_246gMHV9EemfQOmpAt9o7Q"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_nI5wkHidEemDYJya-PDgUg" entityName="newAssemblyConnector" requiringAssemblyContext_AssemblyConnector="_SuwTwHWAEemfQOmpAt9o7Q" providingAssemblyContext_AssemblyConnector="_kwAmkHidEemDYJya-PDgUg">
+    <providedRole_AssemblyConnector href="monolitic.repository#_zqXfUHiYEemDYJya-PDgUg"/>
+    <requiredRole_AssemblyConnector href="monolitic.repository#_8rcMUHiaEemDYJya-PDgUg"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_TwSpQHWAEemfQOmpAt9o7Q" entityName="IController OperationProvidedRole">
+    <providedInterface__OperationProvidedRole href="monolitic.repository#_janw8HV8EemfQOmpAt9o7Q"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <qosAnnotations_System id="_7l13cHV_EemfQOmpAt9o7Q" entityName="QoSAnnotations"/>
+</system:System>

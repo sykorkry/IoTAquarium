@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ASCII"?>
+<allocation:Allocation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:allocation="http://palladiosimulator.org/PalladioComponentModel/Allocation/5.2" id="_bCsZUHo1Eem058iEWYHpfg" entityName="New Allocation">
+  <targetResourceEnvironment_Allocation href="common.resourceenvironment#/"/>
+  <system_Allocation href="distributed.system#_424d0GtuEemeqq0TqWrLYQ"/>
+  <allocationContexts_Allocation id="_b4FvQHpAEem058iEWYHpfg" entityName="Allocation_Assembly_IoTAquarium">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_Vz3xkGtvEemeqq0TqWrLYQ"/>
+    <assemblyContext_AllocationContext href="distributed.system#_BWW9AHpAEem058iEWYHpfg"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_KijvYHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_JobBalancer">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
+    <assemblyContext_AllocationContext href="distributed.system#_48BL8HpVEemqboanI4Ar_A"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_Lh_zIHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_PHService">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
+    <assemblyContext_AllocationContext href="distributed.system#_2kGSUHpVEemqboanI4Ar_A"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_MkX2IHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_TemperatureService">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
+    <assemblyContext_AllocationContext href="distributed.system#_78n2MHpVEemqboanI4Ar_A"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_NgkYoHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_CleaningService">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
+    <assemblyContext_AllocationContext href="distributed.system#_-YsQAHpVEemqboanI4Ar_A"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_ODe4cHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_FoodService">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
+    <assemblyContext_AllocationContext href="distributed.system#_9rUMoHpVEemqboanI4Ar_A"/>
+  </allocationContexts_Allocation>
+</allocation:Allocation>

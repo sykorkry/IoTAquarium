@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<allocation:Allocation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:allocation="http://palladiosimulator.org/PalladioComponentModel/Allocation/5.2" id="_UQF1MGtwEemeqq0TqWrLYQ" entityName="New Allocation">
+  <targetResourceEnvironment_Allocation href="common.resourceenvironment#/"/>
+  <system_Allocation href="monolitic.system#_424d0GtuEemeqq0TqWrLYQ"/>
+  <allocationContexts_Allocation id="_WPUQcHWAEemfQOmpAt9o7Q" entityName="Allocation_Assembly_Controller">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
+    <assemblyContext_AllocationContext href="monolitic.system#_SuwTwHWAEemfQOmpAt9o7Q"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_oLJQsHidEemDYJya-PDgUg" entityName="Allocation_Assembly_IoTAquarium">
+    <resourceContainer_AllocationContext href="common.resourceenvironment#_Vz3xkGtvEemeqq0TqWrLYQ"/>
+    <assemblyContext_AllocationContext href="monolitic.system#_kwAmkHidEemDYJya-PDgUg"/>
+  </allocationContexts_Allocation>
+</allocation:Allocation>
