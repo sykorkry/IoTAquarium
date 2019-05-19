@@ -6,24 +6,24 @@
     <resourceContainer_AllocationContext href="common.resourceenvironment#_Vz3xkGtvEemeqq0TqWrLYQ"/>
     <assemblyContext_AllocationContext href="distributed.system#_BWW9AHpAEem058iEWYHpfg"/>
   </allocationContexts_Allocation>
-  <allocationContexts_Allocation id="_KijvYHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_JobBalancer">
+  <allocationContexts_Allocation id="_Y-zc4HpfEemgmLWa48aZ0w" entityName="Allocation_Assembly_JobBalancer">
     <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
-    <assemblyContext_AllocationContext href="distributed.system#_48BL8HpVEemqboanI4Ar_A"/>
+    <assemblyContext_AllocationContext href="distributed.repository#_zqaOwHpdEemgmLWa48aZ0w"/>
   </allocationContexts_Allocation>
-  <allocationContexts_Allocation id="_Lh_zIHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_PHService">
+  <allocationContexts_Allocation id="_ZuqzkHpfEemgmLWa48aZ0w" entityName="Allocation_Assembly_PHService">
     <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
-    <assemblyContext_AllocationContext href="distributed.system#_2kGSUHpVEemqboanI4Ar_A"/>
+    <assemblyContext_AllocationContext href="distributed.repository#_9Fwu4HpdEemgmLWa48aZ0w"/>
   </allocationContexts_Allocation>
-  <allocationContexts_Allocation id="_MkX2IHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_TemperatureService">
+  <allocationContexts_Allocation id="_aMuokHpfEemgmLWa48aZ0w" entityName="Allocation_Assembly_FoodService">
     <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
-    <assemblyContext_AllocationContext href="distributed.system#_78n2MHpVEemqboanI4Ar_A"/>
+    <assemblyContext_AllocationContext href="distributed.repository#_70vL4HpdEemgmLWa48aZ0w"/>
   </allocationContexts_Allocation>
-  <allocationContexts_Allocation id="_NgkYoHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_CleaningService">
+  <allocationContexts_Allocation id="_abXhgHpfEemgmLWa48aZ0w" entityName="Allocation_Assembly_CleaningService">
     <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
-    <assemblyContext_AllocationContext href="distributed.system#_-YsQAHpVEemqboanI4Ar_A"/>
+    <assemblyContext_AllocationContext href="distributed.repository#_66BQEHpdEemgmLWa48aZ0w"/>
   </allocationContexts_Allocation>
-  <allocationContexts_Allocation id="_ODe4cHpXEemqboanI4Ar_A" entityName="Allocation_Assembly_FoodService">
+  <allocationContexts_Allocation id="_aov2MHpfEemgmLWa48aZ0w" entityName="Allocation_Assembly_TemperatureService">
     <resourceContainer_AllocationContext href="common.resourceenvironment#_c_IM0HV_EemfQOmpAt9o7Q"/>
-    <assemblyContext_AllocationContext href="distributed.system#_9rUMoHpVEemqboanI4Ar_A"/>
+    <assemblyContext_AllocationContext href="distributed.repository#_3YEMQHpdEemgmLWa48aZ0w"/>
   </allocationContexts_Allocation>
 </allocation:Allocation>
