@@ -163,12 +163,14 @@
       <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_ZN8A4HpmEemgmLWa48aZ0w" entityName="ExternalCallAction1" predecessor_AbstractAction="_jeg1cHo9Eem058iEWYHpfg" successor_AbstractAction="_jeg1cXo9Eem058iEWYHpfg" calledService_ExternalService="_Oqa-0HpmEemgmLWa48aZ0w" role_ExternalService="_4I_PsHpZEemgmLWa48aZ0w"/>
     </serviceEffectSpecifications__BasicComponent>
     <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_j37bAHo9Eem058iEWYHpfg" describedService__SEFF="_V2s78Ho9Eem058iEWYHpfg">
-      <steps_Behaviour xsi:type="seff:StartAction" id="_kL_mgHo9Eem058iEWYHpfg" successor_AbstractAction="_kMANkHo9Eem058iEWYHpfg"/>
-      <steps_Behaviour xsi:type="seff:StopAction" id="_kMANkHo9Eem058iEWYHpfg" predecessor_AbstractAction="_kL_mgHo9Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:StartAction" id="_kL_mgHo9Eem058iEWYHpfg" successor_AbstractAction="_9F_pUHpmEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_kMANkHo9Eem058iEWYHpfg" predecessor_AbstractAction="_9F_pUHpmEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_9F_pUHpmEemgmLWa48aZ0w" entityName="ExternalCallAction1" predecessor_AbstractAction="_kL_mgHo9Eem058iEWYHpfg" successor_AbstractAction="_kMANkHo9Eem058iEWYHpfg" calledService_ExternalService="_Qc8FUHpmEemgmLWa48aZ0w" role_ExternalService="_C7J08HpeEemgmLWa48aZ0w"/>
     </serviceEffectSpecifications__BasicComponent>
     <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_krzvAHo9Eem058iEWYHpfg" describedService__SEFF="_XP9N4Ho9Eem058iEWYHpfg">
-      <steps_Behaviour xsi:type="seff:StartAction" id="_k_pRAHo9Eem058iEWYHpfg" successor_AbstractAction="_k_pRAXo9Eem058iEWYHpfg"/>
-      <steps_Behaviour xsi:type="seff:StopAction" id="_k_pRAXo9Eem058iEWYHpfg" predecessor_AbstractAction="_k_pRAHo9Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:StartAction" id="_k_pRAHo9Eem058iEWYHpfg" successor_AbstractAction="_Og3kwHpnEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_k_pRAXo9Eem058iEWYHpfg" predecessor_AbstractAction="_Og3kwHpnEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_Og3kwHpnEemgmLWa48aZ0w" entityName="ExternalCallAction1" predecessor_AbstractAction="_k_pRAHo9Eem058iEWYHpfg" successor_AbstractAction="_k_pRAXo9Eem058iEWYHpfg" calledService_ExternalService="_PgSP0HpmEemgmLWa48aZ0w" role_ExternalService="_CabGcHpeEemgmLWa48aZ0w"/>
     </serviceEffectSpecifications__BasicComponent>
   </components__Repository>
   <components__Repository xsi:type="repository:BasicComponent" id="_rfmo8Ho7Eem058iEWYHpfg" entityName="TemperatureService">
@@ -236,16 +238,81 @@
     <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="__OspwHo7Eem058iEWYHpfg" entityName="IFoodService OPR1" providedInterface__OperationProvidedRole="_K0v8UHo7Eem058iEWYHpfg"/>
     <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_sUsocHo8Eem058iEWYHpfg" entityName="IIoTAquarium ORR2" requiredInterface__OperationRequiredRole="_w3crwHiYEemDYJya-PDgUg"/>
     <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_ivvuUHpmEemgmLWa48aZ0w" describedService__SEFF="_PgSP0HpmEemgmLWa48aZ0w">
-      <steps_Behaviour xsi:type="seff:StartAction" id="_jF3vUHpmEemgmLWa48aZ0w" successor_AbstractAction="_jF3vUXpmEemgmLWa48aZ0w"/>
-      <steps_Behaviour xsi:type="seff:StopAction" id="_jF3vUXpmEemgmLWa48aZ0w" predecessor_AbstractAction="_jF3vUHpmEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:StartAction" id="_UsAoQHouEemAx50lmP1uKQ" successor_AbstractAction="_aRkikHouEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_UYITEHpnEemgmLWa48aZ0w" entityName="ExternalCallAction4" predecessor_AbstractAction="_f7TLMHouEemAx50lmP1uKQ" successor_AbstractAction="_f7TLMXouEemAx50lmP1uKQ" calledService_ExternalService="_F2tA4HouEemAx50lmP1uKQ" role_ExternalService="_sUsocHo8Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:ForkAction" id="_d_Y4IHouEemAx50lmP1uKQ" entityName="ForkAction1" predecessor_AbstractAction="_aRkikHouEemAx50lmP1uKQ" successor_AbstractAction="_0MU0YHouEemAx50lmP1uKQ">
+        <asynchronousForkedBehaviours_ForkAction id="_eyRGkHouEemAx50lmP1uKQ">
+          <steps_Behaviour xsi:type="seff:StartAction" id="_eyRtoHouEemAx50lmP1uKQ" successor_AbstractAction="_Tb1p8HpnEemgmLWa48aZ0w"/>
+          <steps_Behaviour xsi:type="seff:StopAction" id="_eyRtoXouEemAx50lmP1uKQ" predecessor_AbstractAction="_Tb1p8HpnEemgmLWa48aZ0w"/>
+        </asynchronousForkedBehaviours_ForkAction>
+        <asynchronousForkedBehaviours_ForkAction id="_f7SkIHouEemAx50lmP1uKQ">
+          <steps_Behaviour xsi:type="seff:StartAction" id="_f7TLMHouEemAx50lmP1uKQ" successor_AbstractAction="_UYITEHpnEemgmLWa48aZ0w"/>
+          <steps_Behaviour xsi:type="seff:StopAction" id="_f7TLMXouEemAx50lmP1uKQ" predecessor_AbstractAction="_UYITEHpnEemgmLWa48aZ0w"/>
+        </asynchronousForkedBehaviours_ForkAction>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_UsAoQXouEemAx50lmP1uKQ" predecessor_AbstractAction="_0MU0YHouEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_aRkikHouEemAx50lmP1uKQ" entityName="setUp" predecessor_AbstractAction="_UsAoQHouEemAx50lmP1uKQ" successor_AbstractAction="_d_Y4IHouEemAx50lmP1uKQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(5.0; 0.8)(15.0; 0.2)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(10.0; 0.8)(15.0; 0.2)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_Tb1p8HpnEemgmLWa48aZ0w" entityName="ExternalCallAction3" predecessor_AbstractAction="_eyRtoHouEemAx50lmP1uKQ" successor_AbstractAction="_eyRtoXouEemAx50lmP1uKQ" calledService_ExternalService="_P1jtQHiaEemDYJya-PDgUg" role_ExternalService="_sUsocHo8Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0MU0YHouEemAx50lmP1uKQ" entityName="record" predecessor_AbstractAction="_d_Y4IHouEemAx50lmP1uKQ" successor_AbstractAction="_UsAoQXouEemAx50lmP1uKQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(10.0; 0.8)(15.0; 0.2)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
+        </resourceDemand_Action>
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(2.0; 0.8)(6.0; 0.2)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
     </serviceEffectSpecifications__BasicComponent>
   </components__Repository>
   <components__Repository xsi:type="repository:BasicComponent" id="_tsf-UHo7Eem058iEWYHpfg" entityName="CleaningService">
     <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_ArR8gHo8Eem058iEWYHpfg" entityName="CleaningService OPR1" providedInterface__OperationProvidedRole="_Rtgj4Ho7Eem058iEWYHpfg"/>
     <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_sxJ68Ho8Eem058iEWYHpfg" entityName="IIoTAquarium ORR3" requiredInterface__OperationRequiredRole="_w3crwHiYEemDYJya-PDgUg"/>
     <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_jesfAHpmEemgmLWa48aZ0w" describedService__SEFF="_Qc8FUHpmEemgmLWa48aZ0w">
-      <steps_Behaviour xsi:type="seff:StartAction" id="_jyOfAHpmEemgmLWa48aZ0w" successor_AbstractAction="_jyPGEHpmEemgmLWa48aZ0w"/>
-      <steps_Behaviour xsi:type="seff:StopAction" id="_jyPGEHpmEemgmLWa48aZ0w" predecessor_AbstractAction="_jyOfAHpmEemgmLWa48aZ0w"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_UlFWUHotEemAx50lmP1uKQ" entityName="analyze" predecessor_AbstractAction="_C5794HpnEemgmLWa48aZ0w" successor_AbstractAction="_zHkiAHidEemDYJya-PDgUg">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(10.0; 0.8)(30.0; 0.2)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(5.0; 0.8)(10.0; 0.2)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StartAction" id="_uxD0wHidEemDYJya-PDgUg" successor_AbstractAction="_OQxVEHosEemAx50lmP1uKQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_uxD0wXidEemDYJya-PDgUg" predecessor_AbstractAction="_zHkiAHidEemDYJya-PDgUg"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_OQxVEHosEemAx50lmP1uKQ" entityName="setUp" predecessor_AbstractAction="_uxD0wHidEemDYJya-PDgUg" successor_AbstractAction="_C5794HpnEemgmLWa48aZ0w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="10"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:BranchAction" id="_zHkiAHidEemDYJya-PDgUg" entityName="FiltrationDesider" predecessor_AbstractAction="_UlFWUHotEemAx50lmP1uKQ" successor_AbstractAction="_uxD0wXidEemDYJya-PDgUg">
+        <branches_Branch xsi:type="seff:ProbabilisticBranchTransition" id="_0oMnQHidEemDYJya-PDgUg" entityName="TurnOn" branchProbability="0.5">
+          <branchBehaviour_BranchTransition id="_0oMnQXidEemDYJya-PDgUg">
+            <steps_Behaviour xsi:type="seff:StartAction" id="_0oNOUHidEemDYJya-PDgUg" successor_AbstractAction="_FkJhYHpnEemgmLWa48aZ0w"/>
+            <steps_Behaviour xsi:type="seff:StopAction" id="_0oNOUXidEemDYJya-PDgUg" predecessor_AbstractAction="_FkJhYHpnEemgmLWa48aZ0w"/>
+          </branchBehaviour_BranchTransition>
+        </branches_Branch>
+        <branches_Branch xsi:type="seff:ProbabilisticBranchTransition" id="_6gM8cHidEemDYJya-PDgUg" entityName="TurnOff" branchProbability="0.5">
+          <branchBehaviour_BranchTransition id="_6gNjgHidEemDYJya-PDgUg">
+            <steps_Behaviour xsi:type="seff:StartAction" id="_6gNjgXidEemDYJya-PDgUg" successor_AbstractAction="_GV5HYHpnEemgmLWa48aZ0w"/>
+            <steps_Behaviour xsi:type="seff:StopAction" id="_6gNjgnidEemDYJya-PDgUg" predecessor_AbstractAction="_GV5HYHpnEemgmLWa48aZ0w"/>
+          </branchBehaviour_BranchTransition>
+        </branches_Branch>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_C5794HpnEemgmLWa48aZ0w" entityName="ExternalCallAction1" predecessor_AbstractAction="_OQxVEHosEemAx50lmP1uKQ" successor_AbstractAction="_UlFWUHotEemAx50lmP1uKQ" calledService_ExternalService="__fPlAHosEemAx50lmP1uKQ" role_ExternalService="_sxJ68Ho8Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_FkJhYHpnEemgmLWa48aZ0w" entityName="ExternalCallAction2" predecessor_AbstractAction="_0oNOUHidEemDYJya-PDgUg" successor_AbstractAction="_0oNOUXidEemDYJya-PDgUg" calledService_ExternalService="_OEpJQHiaEemDYJya-PDgUg" role_ExternalService="_sxJ68Ho8Eem058iEWYHpfg"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_GV5HYHpnEemgmLWa48aZ0w" entityName="ExternalCallAction3" predecessor_AbstractAction="_6gNjgXidEemDYJya-PDgUg" successor_AbstractAction="_6gNjgnidEemDYJya-PDgUg" calledService_ExternalService="_P1jtQHiaEemDYJya-PDgUg" role_ExternalService="_sxJ68Ho8Eem058iEWYHpfg"/>
     </serviceEffectSpecifications__BasicComponent>
   </components__Repository>
   <components__Repository xsi:type="subsystem:SubSystem" id="_rpPNoHpdEemgmLWa48aZ0w" entityName="Controller">
