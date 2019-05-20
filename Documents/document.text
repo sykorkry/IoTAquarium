@@ -1,0 +1,215 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\title{IoT-Aquarium}
+\author{
+Anna Zlámalová \and
+Aneta Volfová \and
+Petr Tománek \and
+Kryštof Sýkora \and 
+Pavel Krulec}
+\date{May 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+The aim of this project is to create a Palladio simulation of two different software architectures that handle the same problem.
+
+The architectures chosen are one of a monolithic approach and one that is distributed and service oriented. Some parts of the architectures will remain the same such as the resource environment.
+ 
+This paper will document the simulation project and its results.
+
+\section{IoT-Aquarium}
+
+``You like fish? We like fish. And we like IoT Systems. Hence IoT Aquarium project!``
+
+The system under analysis is designed to maintain and supervise functions of various IoT devices used in domestic fish-fish life supervision and habitation.
+
+The simulation design is generally separated in two different ways. Firstly, the system has a common part witch is an abstraction of the IoT Aquarium, representing the various devices used in Aquarium maintenance. Secondly, there is the part, of a controller software, that is implemented as a monolithic and distributed system.
+
+These implementations of the controller system are then compared and evaluated based on their own merits.
+
+\section{Repositories}
+
+The simulation is grounded in repository abstractions, that showcase the system basic functions and dependencies. Figure \ref{fig:repo-common-IoTAquarium} illustrates the repository housing the IoT Aquarium system, that is common to both distributed and monolithic systems. This is implemented as a Palladio composite component.
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/repo-common-IoTAquarium.png}}
+        \caption{\label{fig:repo-common-IoTAquarium}
+        Repository diagram of IoT-Aquarium.}
+\end{figure}
+
+First itteration of the controller implementation is the monolithic one. Here the controller is represented by one component containing and maintaining all the functions required by the system.
+figure \ref{fig:repo-monolitic-controller}
+\begin{figure}[!h]
+        \center{\includegraphics[width=0.5\textwidth]
+        {figures/repo-monolitic-controller.png}}
+        \caption{\label{fig:repo-monolitic-controller}
+        Repository diagram of monolithic controller.}
+\end{figure}
+
+Secondly in figure \ref{fig:repo-distributed-controller}, the distributed controller is modeled. The responsibilities of the monolithic application are distributed into services. The system is implemented as a subsystem component.
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/repo-distributed-controller.png}}
+        \caption{\label{fig:repo-distributed-controller}
+        Repository diagram of distributed controller.}
+\end{figure}
+\clearpage
+
+\section{System}
+
+In this simulation, two types of composite systems are used. One (Figure \ref{fig:system-common-IoTAquarium}) for the IoT Aquarium composite component and the second (Figure \ref{fig:system-distributed-controller}) for the distributed controller subsystem.
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/system-common-IoTAquarium.png}}
+        \caption{\label{fig:system-common-IoTAquarium}
+        IoT-Aquarium system diagram.}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/system-distributed-controller.png}}
+        \caption{\label{fig:system-distributed-controller}
+        IoT-Aquarium system diagram.}
+\end{figure}
+
+Weather the subsystem is used or not, the overall system diagram remains the same for both monolithic and distributed versions as shown in figure \ref{fig:system-common}.
+\begin{figure}[!h]
+        \center{\includegraphics[width=0.5\textwidth]
+        {figures/system-common.png}}
+        \caption{\label{fig:system-common}
+        System diagram.}
+\end{figure}
+
+\clearpage
+
+\section{Environment}
+
+To maintain a an experiment result reflecting the architectural changes and not the HW used, the resource enviroment is shared by both monolithic and distributed version of the system (see figure \ref{fig:resourceenv-common}).
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/resourceenv-common.png}}
+        \caption{\label{fig:resourceenv-common}
+        Resource environment diagram.}
+\end{figure}
+
+\clearpage
+
+\section{SEFF}
+
+To showcase the internal logic of the system, three SEFF diagrams are included expanding on the functions behind filtration, food and temperature controll (Figures \ref{fig:seff-controll-filtration}, \ref{fig:seff-food-controll}, \ref{fig:seff-temp-controll}). The implementations are simmilar in both architectures, especialy when it comes to ballancing a similar simulated load for all basic functions. 
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/seff-controll-filtration.png}}
+        \caption{\label{fig:seff-controll-filtration}
+        SEFF digram of filtration control.}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/seff-food-controll.png}}
+        \caption{\label{fig:seff-food-controll}
+        SEFF digram of food control.}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/seff-temp-controll.png}}
+        \caption{\label{fig:seff-temp-controll}
+        SEFF digram of temperature control.}
+\end{figure}
+
+\clearpage
+
+\section{Allocation}
+
+The system components are allocated to the respective HW abstractions from the resource environment. The only difference is, that Palladio simulations require for the subsystem to be serves as only a reference and not be actually deployed to the resource container as seen in figure \ref{fig:allocation-distributed} for the distributed architecture. This is not the case for the monolithic architecture (figure \ref{fig:allocation-monolitic}).
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/allocation-distributed.png}}
+        \caption{\label{fig:allocation-distributed}
+        Allocation diagram for distributed system.}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/allocation-monolitic.png}}
+        \caption{\label{fig:allocation-monolitic}
+        Allocation diagram for monolithic system.}
+\end{figure}
+\clearpage
+
+\section{Usage Scenarios}
+
+Scenarios in figure \ref{fig:usagemodel-common} are designed to run concurrently to simulated the three basic system responsibilities. In this case, the actor of the scenarios would be the system.
+
+Wait time between different scenarios reflects the frequency of individual methods.
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/usagemodel-common.png}}
+        \caption{\label{fig:usagemodel-common}
+        Usage scenarios}
+\end{figure}
+\clearpage
+
+\section{Experiment Results}
+
+Experiment results are shown in figures 
+\ref{fig:exp-cpu-Cloud-active-resource},
+\ref{fig:exp-delay-IoTA-active-resource},
+\ref{fig:exp-sc-filtration},
+\ref{fig:exp-sc-food},
+\ref{fig:exp-sc-temperature}.
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/exp-cpu-Cloud-active-resource.png}}
+        \caption{\label{fig:exp-cpu-Cloud-active-resource}
+        CPU active resource use at Controller (1. monolithic, 2. distributed).}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/exp-delay-IoTA-active-resource.png}}
+        \caption{\label{fig:exp-delay-IoTA-active-resource}
+        DELAY active resource use at IoT-Aquarium (1. monolithic, 2. distributed).}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/exp-sc-filtration.png}}
+        \caption{\label{fig:exp-sc-filtration}
+        Response time for filtration control use case (1. monolithic, 2. distributed).}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/exp-sc-food.png}}
+        \caption{\label{fig:exp-sc-food}
+        Response time for food control use case (1. monolithic, 2. distributed).}
+\end{figure}
+
+\begin{figure}[!h]
+        \center{\includegraphics[width=\textwidth]
+        {figures/exp-sc-temperature.png}}
+        \caption{\label{fig:exp-sc-temperature}
+        Response time for temperature control use case (1. monolithic, 2. distributed).}
+\end{figure}
+\clearpage
+
+\section{Conclusion}
+
+Is all very good.
+
+\end{document}
+
