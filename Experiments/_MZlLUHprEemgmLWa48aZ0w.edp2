@@ -379,574 +379,574 @@
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
   </measuringTypes>
   <measuringPointRepositories id="_uuxC4HpXEemgmLWa48aZ0w">
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in IoTAquarium" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_bD3EgGtvEemeqq0TqWrLYQ"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_evcT4HV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="HDD [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_geP_EHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="DELAY [0] in Cloud Controller" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg">
       <activeResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_5u3LsHo1Eem058iEWYHpfg"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
-    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: aName" resourceURIRepresentation="">
+    <measuringPoints xsi:type="pcmmeasuringpoint:LinkingResourceMeasuringPoint" stringRepresentation="Linking Resource: The Internets" resourceURIRepresentation="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q">
       <linkingResource href="file:/home/rehalus/eclipse-workspace/org.palladiosimulator.temporary/model/platform/resource/IoTAquarium/common.resourceenvironment#_juckgHV_EemfQOmpAt9o7Q"/>
     </measuringPoints>
   </measuringPointRepositories>
